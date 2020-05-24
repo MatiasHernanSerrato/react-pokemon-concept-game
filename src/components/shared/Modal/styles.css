@@ -1,0 +1,21 @@
+.modalContainer {
+  width: 158px;
+  height: 30px;
+  position: absolute;
+  bottom: 58px;
+  right: 30px;
+  border: 1px solid red;
+  display: flex;
+}
+
+button {
+  background-color: #e6d5c8;
+  border: 0;
+  font-size: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.6;
+}

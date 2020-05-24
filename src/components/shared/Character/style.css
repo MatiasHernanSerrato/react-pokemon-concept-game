@@ -1,0 +1,21 @@
+.characterLife {
+  text-align: center;
+  font-size: 5px;
+}
+
+.character {
+  position: relative;
+}
+.isMainCharacter {
+  height: 90px;
+  width: 90px;
+  left: -12px;
+  top: -22px;
+}
+
+.isEnemy {
+  height: 60px;
+  width: 60px;
+  right: 5px;
+  top: -12px;
+}
